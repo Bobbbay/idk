@@ -18,3 +18,8 @@ idk
 ```
 idk -a [author]
 ```
+
+## Uninstall
+```
+npm uninstall -g bobbbay-idk
+```
