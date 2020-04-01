@@ -14,7 +14,7 @@
 </p>
 
 ## Description
-I literally don't know
+I literally don't know.
 
 ```
 “Quotation, n: The act of repeating erroneously the words of another.”
