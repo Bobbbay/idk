@@ -1,0 +1,29 @@
+{
+  "name": "idk",
+  "version": "1.0.0",
+  "description": "I literally don't know",
+  "main": "./bin/index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bobbbay/idk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bobbbay/idk/issues"
+  },
+  "homepage": "https://github.com/Bobbbay/idk#readme",
+  "bin": {
+    "idk": "./bin/index.js"
+  }
+}
