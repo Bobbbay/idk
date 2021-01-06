@@ -4,7 +4,7 @@
   "description": "I literally don't know",
   "main": "./bin/index.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "boxen": "^4.0.0",
     "chalk": "^2.4.2",
     "yargs": "^13.2.4"
